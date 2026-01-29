@@ -1,5 +1,5 @@
 ## Hi there 👋
-My Name is Marshall and I'm a senior at Elon University. I am studying Finance and Accounting.
+My Name is Marshall and I'm a senior at Elon University.Studying Finance and Accounting.
 <!--
 **mmoody8/mmoody8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
